@@ -1,5 +1,9 @@
 # passkey_root_of_trust
 
+A basic proof of concept for our proposed solution to be impelmented on the BoB World App.
+
+This is currently hosted on firebase simplify the process just for this demonstration, but the final solution would be hosted on BoB's own infrastructure.
+
 ## Install
 Checkout this repository, then install.
 
