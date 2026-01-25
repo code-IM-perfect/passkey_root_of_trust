@@ -80,7 +80,7 @@
     "@types/rollup-plugin-node-builtins": "^2.1.5",
     "@types/rollup-plugin-node-globals": "^1.4.5",
     "@types/uid-safe": "^2.1.5",
-    "firebase-tools": "^13.29.1",
+    "firebase-tools": "^15.3.1",
     "rimraf": "^6.0.1",
     "rollup": "^4.29.1",
     "rollup-plugin-copy": "^3.5.0",
